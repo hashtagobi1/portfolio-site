@@ -34,9 +34,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `obi portfolio`,
+        short_name: `obi portfolio`,
+        description: `a list of my proud projects`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
